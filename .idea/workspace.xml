@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd4fa09b-49e9-4d7c-b1d7-cc628f57e7f2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SH2YIxs1MaEQRGKumUcvtCgDpv" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-js-ij" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../BookStore-App-In-Play-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Documents/knowledge-portal-rest-sample-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/AkkaKillTheCharactersGame-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/gatling-charts-highcharts-bundle-3.2.1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/gatling-sbt-plugin-demo-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/knowledge-portal-rest-additional-utilities" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/knowledge-portal-rest-develop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/knowledge-portal-rest-sample-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/knowledge-portal-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/playing-reactjs.g8-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Downloads/webinar-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/knolx-portal-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/knowledge-portal-rest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/knowledge-portal-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/play-framework-poc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/play-sample-chat-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/play-websocket-echo-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/scala-01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/websocket-chat-server-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../LAS-P-lightbend-akka-for-scala-professional-v1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../bbcdzREST-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-framework-poc-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../projectBackup/Decline changes/knowledge-portal-ui" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../projectBackup/knolx-portal-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd4fa09b-49e9-4d7c-b1d7-cc628f57e7f2" name="Default Changelist" comment="" />
+      <created>1571206246571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571206246571</updated>
+    </task>
+    <servers />
+  </component>
+</project>
