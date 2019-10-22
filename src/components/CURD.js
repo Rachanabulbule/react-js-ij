@@ -1,4 +1,5 @@
 import React, {Component} from "react"
+import Conditional from "./Conditional"
 
 class CURD extends React.Component {
 
@@ -8,15 +9,22 @@ class CURD extends React.Component {
       title: "CURD application using ReactJs",
       action: 0,
       index: "",
+      isLoading: true,
       data: []
     }
   }
 
   componentDidMount(){
     this.refs.name.focus();
+    setTimeout(()=>{
+      this.setState({
+      isLoading : false
+      })
+      }, 1500 )
   }
 
   functionSubmit = (e) =>{
+   console.log("submitted")
     e.preventDefault();
     console.log('try');
 
@@ -72,6 +80,7 @@ class CURD extends React.Component {
     var data = this.state.data;
     return (
       <div className="CURD">
+        <Conditional isLoading={this.state.isLoading}/>
         <h2>{this.state.title}</h2>
         <form ref="curdForm" className="curdForm">
           <input type="text" ref="name" placeholder="your Good name" className="formField" />
