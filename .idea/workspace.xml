@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd4fa09b-49e9-4d7c-b1d7-cc628f57e7f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Conditional.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Conditional.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CURD.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CURD.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="ProjectId" id="1SH2YIxs1MaEQRGKumUcvtCgDpv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-js-ij" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../knowledge-portal-rest" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />

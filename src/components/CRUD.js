@@ -1,15 +1,16 @@
 import React, {Component} from "react"
 import Conditional from "./Conditional"
 
-class CURD extends React.Component {
+class CRUD extends React.Component {
 
   constructor(props){
     super(props);
     this.state={
-      title: "CURD application using ReactJs",
+      title: "CRUD application using ReactJs",
       action: 0,
       index: "",
       isLoading: true,
+      idFromAPI: [],
       data: []
     }
   }
@@ -79,10 +80,10 @@ class CURD extends React.Component {
   render() {
     var data = this.state.data;
     return (
-      <div className="CURD">
-        <Conditional isLoading={this.state.isLoading}/>
+      <div className="CRUD">
+        <Conditional isLoading={this.state.isLoading} idFromAPI={this.state.idFromAPI}/>
         <h2>{this.state.title}</h2>
-        <form ref="curdForm" className="curdForm">
+        <form ref="crudForm" className="crudForm">
           <input type="text" ref="name" placeholder="your Good name" className="formField" />
           <input type="text" ref="address" placeholder="your address" className="formField" />
           <button onClick={(e)=>this.functionSubmit(e)} className="myButton">submit </button>
@@ -101,4 +102,4 @@ class CURD extends React.Component {
   }
 }
 
-export default CURD
+export default CRUD

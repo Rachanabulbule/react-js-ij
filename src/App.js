@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 import Wishes from "./components/Greetings"
-import CURD from "./components/CURD"
+import CRUD from "./components/CRUD"
 
 class App extends React.Component{
 render(){
 return(
   <div className= "App">
       <Wishes/>
-      <CURD/>
+      <CRUD/>
   </div>
     )
    }
